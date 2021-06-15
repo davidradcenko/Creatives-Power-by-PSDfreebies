@@ -1,2 +1,2 @@
 # Creatives-Power-by-PSDfreebies
-This project was written for the purpose of practicing skills in practice
+This project was written in order to practice skills in practice, the PSD template was taken from the site PSDfreebies.com 
